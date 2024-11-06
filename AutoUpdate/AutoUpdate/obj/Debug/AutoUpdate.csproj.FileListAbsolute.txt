@@ -1,0 +1,10 @@
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.AssemblyReference.cache
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\Users\NoMoreLife\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
